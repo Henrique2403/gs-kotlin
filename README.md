@@ -1,5 +1,5 @@
-<p>Erro ao executar o emulador: Error while waiting for device: VT-x is disabled in BIOS.
-Enable VT-x in your BIOS security settings (refer to documentation for your computer).</p>
+<h1>Erro ao executar o emulador: Error while waiting for device: VT-x is disabled in BIOS.
+Enable VT-x in your BIOS security settings (refer to documentation for your computer).</h1>
 
 <h1>Layout da edição dos textos</h1>
 ![image](https://github.com/Henrique2403/gs-kotlin/assets/86930880/362dc888-1424-45f8-8661-207c9f122ac7)
