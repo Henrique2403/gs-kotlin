@@ -7,9 +7,17 @@ Enable VT-x in your BIOS security settings (refer to documentation for your comp
 <h1>Layout da lista de itens</h1>
 ![image](https://github.com/Henrique2403/gs-kotlin/assets/86930880/434c593e-5cf1-433b-b88c-221533cc213e)
 
-<p>Integrantes\n
-  Henrique Copatti Cruz RM94751\n
-  Gabriel Arbigaus Carvalho de Souza RM93372\n
+<p>
+  
+  Integrantes
+  
+  
+  Henrique Copatti Cruz RM94751
+  
+  
+  Gabriel Arbigaus Carvalho de Souza RM93372
+  
+  
   Eduardo de Souza Oliveira RM94251
 </p>
 
